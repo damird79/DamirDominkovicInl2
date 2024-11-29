@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/HP/Project/IntelliJ_projects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/HP/Project/IntelliJ_projects/library/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+models
+ui
+utilities
+C:\Users\HP\Project\IntelliJ_projects\library\src\main\java = 1731595347194
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\allclasses-index.html = 1732904488794
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\allpackages-index.html = 1732904488798
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\copy.svg = 1732904488845
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\element-list = 1732904488649
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\help-doc.html = 1732904488837
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\index-all.html = 1732904488826
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\index.html = 1732904488771
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\link.svg = 1732904488846
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\member-search-index.js = 1732904488804
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\module-search-index.js = 1732904488800
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\overview-summary.html = 1732904488832
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\overview-tree.html = 1732904488765
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\package-search-index.js = 1732904488801
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\script.js = 1732904488843
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\search-page.js = 1732904488851
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\search.html = 1732904488829
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\search.js = 1732904488849
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\serialized-form.html = 1732904488693
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\stylesheet.css = 1732904488840
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\tag-search-index.js = 1732904488805
+C:\Users\HP\Project\IntelliJ_projects\library\target\apidocs\type-search-index.js = 1732904488803
